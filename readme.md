@@ -7,7 +7,7 @@
   
   <p>
     <a href="https://www.npmjs.com/package/@suzakuteam/scraper-node">
-      <img src="https://badge.fury.io/js/@suzakuteam%2Fscraper-node.svg" alt="npm version">
+      <img src="https://badge.fury.io/js/@suzakuteam/scraper-node.svg" alt="npm version">
     </a>
     <a href="https://opensource.org/licenses/MIT">
       <img src="https://img.shields.io/badge/License-ISC-yellow.svg" alt="License: ISC">
