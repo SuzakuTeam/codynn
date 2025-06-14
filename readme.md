@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.catbox.moe/5idb5o.png" alt="SuzakuTeam Scraper Modules" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.2); max-width: 400px; width: 100%; height: auto; margin-bottom: 20px;">
+  <img src="https://files.catbox.moe/0ov2b5.png" alt="SuzakuTeam Scraper Modules" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.2); max-width: 400px; width: 100%; height: auto; margin-bottom: 20px;">
   
   <h1>@SuzakuTeam/scraper-node</h1>
   
