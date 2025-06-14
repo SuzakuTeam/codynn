@@ -19,8 +19,8 @@
   
 </div>
 
-- [!IMPORTANT]  
-- **Sxyz** is back and brings several significant updates to this module. Please use it and apologize for any inconvenience. 🚀
+> [!IMPORTANT]
+> **Sxyz** is back and brings several significant updates to this module. Please use it and apologize for any inconvenience. 🚀
 
 A powerful and efficient web scraping library for modern Node.js applications. Designed with a focus on high performance, reliability, and ease of use.
 
